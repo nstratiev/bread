@@ -7,6 +7,10 @@
 body {
   font-family: "Inter", sans-serif;
   color: #343a40;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
 }
 
 header {
@@ -16,6 +20,7 @@ header {
 }
 
 main {
+  flex: 1;
 }
 
 h1 {
@@ -120,5 +125,5 @@ footer {
   display: flex;
   align-items: center;
 
-  margin-top: 250px;
+  margin-top: 70px;
 }
