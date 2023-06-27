@@ -7,10 +7,6 @@
 body {
   font-family: "Inter", sans-serif;
   color: #343a40;
-
-  display: grid;
-  grid-template-columns: auto;
-  grid-template-rows: auto 1fr auto;
 }
 
 header {
@@ -124,5 +120,5 @@ footer {
   display: flex;
   align-items: center;
 
-  margin-top: 50px;
+  margin-top: 250px;
 }
