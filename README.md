@@ -1,3 +1,1 @@
-# bread
-Redirection to: 
-nstratiev.github.io/bread-calculator-bg/
+# Redirection to: nstratiev.github.io/bread-calculator-bg/
